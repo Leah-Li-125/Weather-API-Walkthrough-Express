@@ -1,0 +1,23 @@
+{
+  "name": "Weather-API-Walkthrough-Express",
+  "version": "1.0.0",
+  "description": "The purpose of this project is to gain some practical experience on how to build a basic API server with Express.js, by achieving the following tasks:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leah-Li-125/Weather-API-Walkthrough-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leah-Li-125/Weather-API-Walkthrough-Express/issues"
+  },
+  "homepage": "https://github.com/Leah-Li-125/Weather-API-Walkthrough-Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
