@@ -9,11 +9,11 @@ re-structure the project
 Steps
 
 1. Basic express server
--init the project and install express
-  npm init --yes
-  npm i express
--build up an express server
--setup the routes (fetch the data from openweathermap)
+- init the project and install express
+  - npm init --yes
+  - npm i express
+- build up an express server
+- setup the routes (fetch the data from openweathermap)
 
 2. Extract the routes
 - extract routes into separate modules
