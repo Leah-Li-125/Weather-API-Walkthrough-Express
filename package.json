@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Leah-Li-125/Weather-API-Walkthrough-Express#readme",
   "dependencies": {
+    "axios": "^0.19.1",
     "express": "^4.17.1"
   }
 }
