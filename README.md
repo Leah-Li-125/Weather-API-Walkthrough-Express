@@ -2,12 +2,12 @@
 
 The purpose of this project is to gain some practical experience on how to build a basic API server with Express.js, by achieving the following tasks:
 
-build up basic routes (including query params and route params)
-understand middlewares
-handle errors correctly
-re-structure the project
-Steps
+- build up basic routes (including query params and route params)
+- understand middlewares
+- handle errors correctly
+- re-structure the project
 
+Steps:
 1. Basic express server
 - init the project and install express
   - npm init --yes
